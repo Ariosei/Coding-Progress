@@ -81,4 +81,4 @@ for w in range(len(config)):
 
 print(str_config)
 
-#it works not
+#it works 
